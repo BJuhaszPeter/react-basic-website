@@ -5,7 +5,7 @@ This project is based on Brian Design's [React website design using Styled Compo
 ## Focus of the exercise
 
 - I used css modules to create the design
-- Used the react-scrool and react-router libraries
+- Used the react-scroll and react-router libraries
 - I built the sections more dynamically than in the exercise
 
 ## Available Scripts
