@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Basic Webpage - practice project (with CSS modules)
 
 This project is based on Brian Design's [React website design using Styled Components and Smooth Scroll - Fully responsive project](https://www.youtube.com/watch?v=Nl54MJDR2p8&t=11068s)
+
+## Focus of the exercise
+
+- I used css modules to create the design
+- Used the react-scrool and react-router libraries
+- I built the sections more dynamically than in the exercise
 
 ## Available Scripts
 
