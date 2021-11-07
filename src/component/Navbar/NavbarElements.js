@@ -61,7 +61,7 @@ const NavbarElements = (props) => {
             </li>
           </ul>
           <nav className={classes.NavBtn}>
-            <LinkR to='/signin' className={classes.NavBtnLink}>Sing In</LinkR>
+            <LinkR to='/signin' className={classes.NavBtnLink}>Sign In</LinkR>
           </nav>
         </div>
       </nav>

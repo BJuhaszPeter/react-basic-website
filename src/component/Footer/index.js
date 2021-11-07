@@ -1,5 +1,5 @@
 import React from 'react';
-import FotterElements from './FotterElements';
+import FotterElements from './FootterElements';
 
 const Footer = () => {
   return (

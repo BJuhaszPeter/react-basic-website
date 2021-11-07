@@ -7,7 +7,7 @@ import { data } from '../component/InfoSection/Data';
 import Services from '../component/Services';
 import Footer from '../component/Footer';
 
-const Home = (props) => {
+const Home = () => {
   const [isopen, setIsOpen] = useState(false);
   const toggle = () => {
     setIsOpen(!isopen);

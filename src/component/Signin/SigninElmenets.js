@@ -1,5 +1,5 @@
 import React from 'react';
-import classes from './SinginElmenets.module.css';
+import classes from './SigninElmenets.module.css';
 import { Link as LinkR } from 'react-router-dom';
 
 const SinginElmenets = () => {
@@ -10,7 +10,7 @@ const SinginElmenets = () => {
           <LinkR to='/' className={classes.Icon}>dolla</LinkR>
           <div className={classes.FormContent}>
             <form action='#' className={classes.Form}>
-              <h1 className={classes.FormH1}>Sing in your account</h1>
+              <h1 className={classes.FormH1}>Sign in your account</h1>
               <label className={classes.FormLabel} htmlFor='for'>Email</label>
               <input className={classes.FormInput} type='email' required />
               <label className={classes.FormLabel} htmlFor='for'>Passworld</label>
